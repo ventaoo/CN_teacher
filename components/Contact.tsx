@@ -64,7 +64,7 @@ export const Contact: React.FC = () => {
         {/* Big Arrow Decoration -> Telegram Link */}
         <div className="mt-12 md:mt-0">
             <a 
-              href="https://t.me/zwtttttt"
+              href="https://t.me/ventao_zh"
               target="_blank"
               rel="noopener noreferrer"
               className="w-24 h-24 rounded-full border border-charcoal/20 flex items-center justify-center group hover:bg-charcoal hover:border-charcoal transition-all duration-500 cursor-pointer block"
